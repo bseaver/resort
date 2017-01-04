@@ -1,5 +1,6 @@
 body {
-
+  background-color: lightgreen;
+  margin-left: 30px;
 }
 
 h1 {
@@ -8,17 +9,18 @@ h1 {
 }
 
 p {
-
+  color: darkblue;
+  font-weight: bold;
 }
 
 ul {
-
+  line-height: 30px;
 }
 
 a {
-
+  line-height: 30px;
 }
 
 img {
-
+  border: 4px dotted darkblue;
 }
